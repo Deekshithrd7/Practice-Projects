@@ -1,2 +1,2 @@
 # Practice-Projects
-Practice projects from given by datatrained
+Practice Projects from DataTrained
